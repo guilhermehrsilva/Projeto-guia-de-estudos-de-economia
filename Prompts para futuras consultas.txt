@@ -1,0 +1,23 @@
+Prompts Estratégicos para Análise Financeira e Gestão de Investimentos
+
+Para que futuros visitantes possam se atualizar e aplicar os conceitos dessas obras à realidade do momento, aqui estão 10 prompts focados em análise técnica, comportamento e organização:
+
+1. Cenário Macroeconômico: "Quais são as metas de inflação e a taxa Selic atuais, e como esse cenário afeta o custo de capital das empresas?" [1, 2]
+
+2. Análise Setorial: "Quais setores estão em expansão tecnológica hoje e quais enfrentam obsolescência, comparando a taxa de crescimento deles com o PIB?" [3, 4]
+
+3. Margem de Segurança: "Aplique o conceito de 'margem de segurança' de Benjamin Graham aos preços atuais das maiores empresas da bolsa para identificar subvalorizações." [5, 6]
+
+4. Ativos vs. Passivos: "Com base em Kiyosaki, quais itens do meu patrimônio hoje são ativos reais (geram renda) e quais são passivos (geram despesas)?" [7, 8]
+
+5. Saúde Financeira Empresarial: "O que as demonstrações de Fluxo de Caixa e DRE das empresas líderes revelam sobre sua capacidade de criar valor agora?" [9, 10]
+
+6. Psicologia e Índices: "Compare o desempenho de fundos de índice (ETFs) de baixo custo com fundos ativos nos últimos 5 anos para validar a tese de Housel e Graham." [11, 12]
+
+7. Matriz SWOT Atualizada: "Quais são as principais 'ameaças' e 'oportunidades' externas (matriz SWOT) para o mercado de ações no contexto econômico atual?" [13, 14]
+
+8. Gestão do Tempo e Renda: "Calcule meu 'Custo 100' atual para determinar quantas horas preciso trabalhar para pagar meus desejos de consumo." [15, 16]
+
+9. Independência Financeira: "Qual é o montante necessário para minha independência financeira hoje, considerando um saque mensal que preserve o principal acima da inflação?" [17, 18]
+
+10. Eventos de Cauda: "Identifique eventos de 'cauda longa' (extremos raros) que ocorreram no mercado recentemente e como eles afetaram investidores de longo prazo." [19, 20]
