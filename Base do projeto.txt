@@ -1,5 +1,0 @@
-**//Projeto: Criação de um guia de estudos sobre economia utilizando o NotebookLM//**
-
-Raciocínio que utilizei: pensei em reunir 5 autores que possuem vasto conhecimento sobre o assunto, decidi escolher 3 autores internacionais e 2 brasileiros para ter uma visão local e ao mesmo tempo abrangente para trazer pontos interessantes e relevantes.
-
-Prompt utilizado para criação do guia de estudo: Crie um guia de estudo completo seguindo a seguinte estrutura: 1 Glossário, 2 Introdução, 3 Resumo dos pensamentos de cada autores, 4 Aplicando o pensamento dos atures no dia a dia, 5 Vantagens e desvantagens econômicas na visão dos autores, 6 Insights importantes, 7 Conclusão de todo o estudo, 8 10 perguntas e 10 respostas sobre o que foi estudado sendo 2 perguntas sobre cada autor e a resposta deve conter a fonte de onde foi retirada.
